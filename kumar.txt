@@ -1,4 +1,4 @@
 This is from new Branch.... Hello Kumar
 
 
-Favorite color is RED
+Favorite color is BLUE
